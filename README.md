@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/jurnwebdev/product-preview-card.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://vocal-sawine-ff9fa3.netlify.app/)
 
 ## My process
 
