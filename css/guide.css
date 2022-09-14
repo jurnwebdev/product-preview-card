@@ -1,0 +1,28 @@
+    @media (min-width: 576px) {
+      
+      
+    }
+    
+    @media (min-width: 768px) {
+      .custom-card{
+        height: auto;
+        margin-bottom: 50px;
+    }
+
+    .card-left{
+    height :auto; 
+    border-radius: 10px 0px 0 10px;
+    background-position: center;
+    }
+
+  .product-name{
+    font-size: 40px;  
+    margin: 20px 0;
+  }
+
+  .product-sale-price{
+    font-size: 40px;
+    }
+
+    }
+ 
