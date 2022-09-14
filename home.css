@@ -37,16 +37,12 @@ main{
 }
 
 .custom-card{
-    /* display: grid;
-    width: auto;
-    background-color: #ffa300;
-    grid-template-rows: 1fr 1fr;
-    border-radius: 5px;*/
     display: grid;
     grid-template-rows: 1fr;
     gap: 20px;
     background-color: white;
     margin: 30px;
+    border-radius: 5px;
     
 }
 
@@ -55,7 +51,7 @@ main{
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 5px 5px 0 0;
-    height: 250px;
+    height: 150px;
 }
 
 .card-right{
