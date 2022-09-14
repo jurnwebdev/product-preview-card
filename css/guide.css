@@ -4,6 +4,11 @@
     }
     
     @media (min-width: 768px) {
+
+      body{
+
+      }
+
       .custom-card{
         height: auto;
         margin-bottom: 50px;
@@ -13,6 +18,7 @@
     height :auto; 
     border-radius: 10px 0px 0 10px;
     background-position: center;
+    margin: 50px;
     }
 
   .product-name{
