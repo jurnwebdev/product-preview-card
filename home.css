@@ -15,13 +15,9 @@
     box-sizing: border-box;
 }
 
-.attribution a{
-   color: var(--dark-cyan);
-}
+.attribution { font-size: 11px; text-align: center; }
 
-.attribution{
-    font-size: 10px;
-}
+.attribution a { color: hsl(228, 45%, 44%); }
 
 body{
     background-color: var(--cream) !important;
@@ -51,7 +47,7 @@ main{
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 5px 5px 0 0;
-    height: 150px;
+    height: 200px;
 }
 
 .card-right{
