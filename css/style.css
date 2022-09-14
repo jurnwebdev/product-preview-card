@@ -34,7 +34,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     background-color: var(--white);
-    margin: 20px;
+    margin: 50px;
     height: auto;
     border-radius: 10px;
     flex-shrink: 1px
